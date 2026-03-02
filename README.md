@@ -4,18 +4,17 @@
 - -----
 ### What should you complete to master the` Git&&Github ` really production skills
 
+## More Practicing
+- Branching
+- Merge
+- Advanced conflicts results from (three way merge )
 
 ## Platforms to know 
 - GitHub ` should know the GUI more `
 - GitLab
 - Bitbucket
 
-## More Practicing
-- Branching
-- Merge
-- Advanced conflicts results from (three way merge )
-
-  ## <b> CI/CD Integration<b>
+## <b> CI/CD Integration<b>
 - Git hooks (pre-commit, pre-push)
 - GitHub Actions
 - GitLab CI
